@@ -1,0 +1,14 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "test pour julien",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "moi",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.13.3"
+  }
+}
